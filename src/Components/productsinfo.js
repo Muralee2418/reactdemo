@@ -1,0 +1,23 @@
+export let productlist=[
+    {
+       pid:1,
+       pname:"Mobile",
+       pbrand:"Apple",
+       pprice:50000,
+       instock:true
+    },
+    {
+       pid:2,
+       pname:"Mobile",
+       pbrand:"samsung",
+       pprice:20000,
+       instock:true
+    },
+    {
+       pid:3,
+       pname:"pendrive",
+       pbrand:"hp",
+       pprice:5000,
+       instock:false
+    }
+  ]
